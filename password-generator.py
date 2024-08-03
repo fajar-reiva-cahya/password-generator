@@ -18,7 +18,7 @@ def main():
     password = generate_password(length)
     
     if password:
-        print(f"Generated password : {password}")
+        print(f"Password Yang Telah Di Buat : {password}")
 
 if __name__ == "__main__":
     main()
