@@ -13,7 +13,7 @@ def generate_password(length):
     return password
 
 def main():
-    print("Password Generator")
+    print("Password Generator\n")
     length = int(input("Masukan Panjang Karakter Password Yang Diinginkan: "))
     password = generate_password(length)
     
