@@ -1,4 +1,4 @@
-# Generator Kata Sandi Sederhana
+# Kata Sandi Sederhana
 
 Aplikasi ini adalah sebuah generator kata sandi yang mudah digunakan dan ditulis dalam bahasa Python.
 
